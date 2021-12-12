@@ -1,5 +1,6 @@
 # hellooooo, I'm Dhruva 👋
 ![mhm tasty burger](https://res.cloudinary.com/swiggy/image/upload/f_auto,q_auto,fl_lossy/zj7jvpq7rmgff7dcjxrj)
+(i'm not sponsored by burger king lol)
 
 ## about me
 - 🤷‍♂️ I'm a student/backend web dev
