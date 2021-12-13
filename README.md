@@ -10,6 +10,9 @@
 - 🌏 I hate geography
 - 🍔 I like burgers :)
 
+## find me on
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13561579/staticvoid17)
+
 ## favs
 - 💻 OS: macOS
 - ✍️ Code Editor: VSCode
