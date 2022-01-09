@@ -31,3 +31,6 @@
 ![carrotfarmer's GitHub stats](https://github-readme-stats.vercel.app/api?username=carrotfarmer&count_private=true)
 \
 ![](https://github-readme-streak-stats.herokuapp.com/?user=carrotfarmer&theme=dracula)
+
+# Daily.dev
+<a href="https://app.daily.dev/staticvoid"><img src="https://github.com/carrotfarmer/carrotfarmer/blob/main/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
