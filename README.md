@@ -12,6 +12,7 @@
 
 ## latest blog posts 👇
 <!-- BLOG-POST-LIST:START -->
+- [Tech I&#39;ll be learning in 2022](https://thecatblog.hashnode.dev/tech-ill-be-learning-in-2022)
 <!-- BLOG-POST-LIST:END -->
 
 
