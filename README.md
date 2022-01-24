@@ -42,4 +42,6 @@
 <a href="https://app.daily.dev/staticvoid"><img src="https://github.com/carrotfarmer/carrotfarmer/blob/main/devcard.svg" width="400" alt="Dhruva Srinivas's Dev Card"/></a>
 
 # wakatime
-<img src="https://wakatime.com/share/@f2cdba27-f242-4481-835f-73c6d6b14660/83b9b38b-0168-4c0e-91ca-a7bd742745d8.svg" alt="wakatime stats" width="800" height="800" />
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
