@@ -43,5 +43,12 @@
 
 # wakatime
 <!--START_SECTION:waka-->
+```text
+TypeScript   6 hrs 11 mins   ████████████████████░░░░░   80.54 % 
+Markdown     57 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
+JSON         25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+YAML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+```
 <!--END_SECTION:waka-->
 
