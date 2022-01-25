@@ -12,6 +12,7 @@
 
 ## latest blog posts 👇
 <!-- BLOG-POST-LIST:START -->
+- [Intro to GraphQL with Node.js and TypeScript](https://thecatblog.hashnode.dev/intro-to-graphql-with-nodejs-and-typescript)
 - [Tech I&#39;ll be learning in 2022](https://thecatblog.hashnode.dev/tech-ill-be-learning-in-2022)
 <!-- BLOG-POST-LIST:END -->
 
