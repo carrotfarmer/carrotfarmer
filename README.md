@@ -1,4 +1,3 @@
-# hellooooo, I'm Dhruva 👋
 ![some stuff](https://user-images.githubusercontent.com/66675022/151689696-789e8ba8-2fda-48c4-833f-c6d6794df90e.png)
 
 ## about me
