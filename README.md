@@ -43,6 +43,8 @@
 # wakatime
 <!--START_SECTION:waka-->
 ```text
+Total: 26 hrs 12 mins
+
 TypeScript   25 hrs 46 mins  ████████████████████████▓   98.27 % 
 JavaScript   17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
 JSON         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
