@@ -10,6 +10,7 @@
 
 ## latest blog posts 👇
 <!-- BLOG-POST-LIST:START -->
+- [✨ Introducing Cubedeck ✨: Taking your cubing skills to the moon 🌕🚀](https://thecatblog.hashnode.dev/introducing-cubedeck-taking-your-cubing-skills-to-the-moon)
 - [Intro to GraphQL with Node.js and TypeScript](https://thecatblog.hashnode.dev/intro-to-graphql-with-nodejs-and-typescript)
 - [Tech I&#39;ll be learning in 2022](https://thecatblog.hashnode.dev/tech-ill-be-learning-in-2022)
 <!-- BLOG-POST-LIST:END -->
