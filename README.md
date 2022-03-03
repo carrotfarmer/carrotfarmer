@@ -1,8 +1,9 @@
-![some stuff](https://user-images.githubusercontent.com/66675022/151689696-789e8ba8-2fda-48c4-833f-c6d6794df90e.png)
+![hello, (1)](https://user-images.githubusercontent.com/66675022/156569015-8f566ec2-61eb-4655-88c9-1421b06e9924.png)
 
 ## about me
 - 🤷‍♂️ I'm a student/backend web dev
 - 💩 I also like to tinker with React and TypeScript, and build really dumb stuff
+- 📝 I write blog posts ~~once in a blue moon~~
 - ⚔️ I love contributing to open-source 
 - ⚽️ I'm an ardent sports player, and I play football (sOcCeR), cricket and badminton
 - 🌏 I hate geography
@@ -17,6 +18,7 @@
 
 
 ## find me on
+![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13561579/staticvoid17) [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/carrotfarmer) [![YouTube](https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/c/iqube) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhruvas17068@gmail.com) [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/mxm3373090f0dhh3o5ul1es0j?si=e1a364c9bb0d42ce)
 
 ## favs
