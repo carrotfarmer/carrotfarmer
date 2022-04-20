@@ -48,9 +48,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Kotlin       47 mins         ████████████████████████▓   98.14 %
-JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+Kotlin   47 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
