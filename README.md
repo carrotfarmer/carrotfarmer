@@ -25,8 +25,7 @@
 
 ## favs
 - 💻 OS: macOS
-- ✍️ Code Editor: VSCode
-- 🌳 IDE: Xcode (come on, why all the hate for Xcode? :/)
+- ✍️ Code Editor: nvim
 - 🕸 Broswer: Brave
 - ⌨️ Programming Language: TypeScript (and Swift)
 - 🖼 Front-end Framework: React (but Vue.js is pretty good too)
