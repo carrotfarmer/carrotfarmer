@@ -11,11 +11,11 @@
 
 ## latest blog posts 👇
 <!-- BLOG-POST-LIST:START -->
-- [Chakra UI is amazing!](https://blog.dhruva.is-a.dev/chakra-ui-is-amazing)
 - [Sessions vs JWTs - A Complete Guide to Authentication](https://blog.dhruva.is-a.dev/sessions-vs-jwts-a-complete-guide-to-authentication)
 - [🧑‍💻 Building CLIs with React Ink](https://blog.dhruva.is-a.dev/building-clis-with-react-ink)
 - [✨ Introducing Cubedeck ✨: Taking your cubing skills to the moon 🌕🚀](https://blog.dhruva.is-a.dev/introducing-cubedeck-taking-your-cubing-skills-to-the-moon)
 - [Intro to GraphQL with Node.js and TypeScript](https://blog.dhruva.is-a.dev/intro-to-graphql-with-nodejs-and-typescript)
+- [Tech I&#39;ll be learning in 2022](https://blog.dhruva.is-a.dev/tech-ill-be-learning-in-2022)
 <!-- BLOG-POST-LIST:END -->
 
 
