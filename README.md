@@ -1,11 +1,11 @@
 ![hello, (1)](https://user-images.githubusercontent.com/66675022/156569015-8f566ec2-61eb-4655-88c9-1421b06e9924.png)
 
 ## about me
-- 🤷‍♂️ I'm a student/backend web dev
-- 💩 I also like to tinker with React and TypeScript, and build really dumb stuff
+- 🤷‍♂️ I'm a student/web dev
+- 💩 I like to tinker with React and TypeScript, and build really dumb stuff
 - 📝 I write blog posts ~~once in a blue moon~~
 - ⚔️ I love contributing to open-source 
-- ⚽️ I'm an ardent sports player, and I play football (sOcCeR), cricket and badminton
+- ⚽️ I'm an ardent sports player, and I play football (sOcCeR), cricket and table tennis
 - 🌏 I hate geography
 - 🍔 I like burgers :)
 
@@ -25,11 +25,11 @@
 
 ## favs
 - 💻 OS: macOS
-- ✍️ Code Editor: nvim
+- ✍️ Code Editor: vscode
 - 🕸 Broswer: Brave
 - ⌨️ Programming Language: TypeScript (and Swift)
 - 🖼 Front-end Framework: React (but Vue.js is pretty good too)
-- 🔙 Back-end Framework: NestJS (Node.js)
+- 🔙 Back-end Framework: tRPC, NestJS (Node.js)
 - 🐢 Shell: [fish](https://fishshell.com)
 - 📦 Package Manager: [pacman (arch linux)](https://wiki.archlinux.org/title/pacman), Yarn
 
