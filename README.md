@@ -53,4 +53,3 @@ Other        11 mins         █▓░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-     w
