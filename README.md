@@ -50,6 +50,6 @@
 ```text
 TypeScript   2 hrs 46 mins   ██████████████████████▒░░   88.89 %
 Other        11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
-```
+``` 
 
 <!--END_SECTION:waka-->
