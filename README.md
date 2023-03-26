@@ -48,9 +48,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Haskell      4 hrs 41 mins   ████████████████████▓░░░░   82.96 %
-TypeScript   20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.90 %
-Other        14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
+Haskell      4 hrs 50 mins   █████████████████░░░░░░░░   67.34 %
+TypeScript   1 hr 22 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.14 %
+Other        14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
 ```
 
 <!--END_SECTION:waka-->
