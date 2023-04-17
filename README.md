@@ -48,7 +48,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Astro         1 hr 52 mins    ████████████▒░░░░░░░░░░░░   48.99 %
+TypeScript    1 hr 2 mins     ███████░░░░░░░░░░░░░░░░░░   27.48 %
+Markdown      12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
+Lua           11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
+CSS           9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
+JavaScript    9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
 ```
 
 <!--END_SECTION:waka-->
