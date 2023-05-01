@@ -48,12 +48,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   14 hrs 24 mins  ██████████████████████▒░░   89.85 %
-Lua          29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
-JavaScript   18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
-Markdown     17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
-Bash         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
-fish         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
